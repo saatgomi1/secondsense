@@ -1,0 +1,13 @@
+streamlit
+pandas
+pillow
+google-generativeai
+xlsxwriter
+
+
+step 1 : download the source code 
+step 2 : Install the required dependencies:
+pip install -r requirements.txt
+
+step 3 : Run the Streamlit application
+streamlit run app2.py
